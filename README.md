@@ -18,7 +18,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn
 ### Installation
 You can clone the repository to your local machine using Git:
 
-git clone https://github.com/your_username/bank-marketing-analysis.git
+git clone https://github.com/lokesh-guduru/-bank-marketing-analysis.git
 
 Alternatively, you can download the project as a ZIP file and extract it.
 
